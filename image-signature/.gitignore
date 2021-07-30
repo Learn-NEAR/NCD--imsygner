@@ -13,9 +13,6 @@
 # testing
 /coverage
 
-# production
-/build
-
 /dist
 
 # misc
